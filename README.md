@@ -1,1 +1,5 @@
-# Python-for-mathematical-optimization
+# 数理最適化
+
+### 参考図書
+#### Pythonによる数理最適化入門(実践Pythonライブラリー)
+#### 最適化手法入門(データサイエンス入門シリーズ)
